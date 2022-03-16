@@ -32,7 +32,7 @@ Below, instructions are referenced to use PostgreSQL in a ASP.NET Core project.
 
 
 ### Install NuGet packages
-
+  
 Install the `Npgsql.EntityFrameworkCore.PostgreSQL` NuGet package in the ASP.NET web application.
 
 To do this, you can use the `dotnet` command line by executing:
